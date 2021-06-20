@@ -2,7 +2,7 @@
   "name": "insta_post",
   "version": "1.0.0",
   "description": "Essa aplicação foi produzida com auxílio da PlayList Insta Post Reminder - Aplicativo de Notificação para Desktop do canal Mayk Brito. No vídeo é mostrado como produzir uma aplicação com JS Puro e renderizar em tempo real no Html.",
-  "main": "main.js",
+  "main": "electron/main.js",
   "scripts": {
     "start": "electron ."
   },
