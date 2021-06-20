@@ -22,6 +22,16 @@ Acesse os [vídeos](https://www.youtube.com/watch?v=Mhd6x2Z-F_w) e faça você m
 
 <h4> 🚧 ... 🚀 Em Produção  ... 🚧 </h4>
 
+<h2> Demonstração </h2>
+
+- Versão Web:
+
+<img src="./screemshots/versao-web.png" alt="versão Web">
+
+- Versão Desktop:
+
+<img src="./screemshots/versao-desktop.png" alt="versão Desktop">
+
 <h2>Pré-requisitos</h2>
 
 <p>Para executar essa projeto basta abrir a página index.html com o Live Server no seu navegador (Chrome, Edge, FireFox). Se quiser modificar o código será necessário um editor de códigos de sua preferência. Recomendo usar o <a  href="https://code.visualstudio.com/download"  alt="VS Code">Visual Studio Code</a>.</p>
@@ -83,6 +93,8 @@ npm start
 ```
 
 <p>Pronto, sua aplicação deverá iniciar, e assim você pode começar os testes</p>
+
+<img src="./screemshots/app-running.png" alt="versão Desktop">
 
 ### 🛠 Tecnologias
 
