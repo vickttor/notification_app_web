@@ -26,11 +26,11 @@ Acesse os [vídeos](https://www.youtube.com/watch?v=Mhd6x2Z-F_w) e faça você m
 
 - Versão Web:
 
-<img src="./screemshots/versao-web.png" alt="versão Web">
+<img src="./screenshots/versao-web.png" alt="versão Web">
 
 - Versão Desktop:
 
-<img src="./screemshots/versao-desktop.png" alt="versão Desktop">
+<img src="./screenshots/versao-desktop.png" alt="versão Desktop">
 
 <h2>Pré-requisitos</h2>
 
@@ -94,7 +94,7 @@ npm start
 
 <p>Pronto, sua aplicação deverá iniciar, e assim você pode começar os testes</p>
 
-<img src="./screemshots/app-running.png" alt="versão Desktop">
+<img src="./screenshots/app-running.png" alt="versão Desktop">
 
 ### 🛠 Tecnologias
 
