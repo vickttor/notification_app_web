@@ -17,9 +17,7 @@ let mess = [
   },
 ];
 
-const notify = Notifyer.notify(
-  mess[Math.floor(Math.random() * (mess.length - 1 - 0 + 1) + 0)]
-);
+const notify = Notifyer.notify(mess[Math.floor(Math.random() * mess.length)]);
 
 const App = {
   async start() {

@@ -24,7 +24,7 @@ Acesse os [vídeos](https://www.youtube.com/watch?v=Mhd6x2Z-F_w) e faça você m
 
 <h2>Pré-requisitos</h2>
 
-<p>Para executar essa projeto basta abrir a página index.html no seu navegador (Chrome, Edge, FireFox). Se quiser modificar o código será necessário um editor de códigos de sua preferência. Recomendo usar o <a  href="https://code.visualstudio.com/download"  alt="VS Code">Visual Studio Code</a>.</p>
+<p>Para executar essa projeto basta abrir a página index.html com o Live Server no seu navegador (Chrome, Edge, FireFox). Se quiser modificar o código será necessário um editor de códigos de sua preferência. Recomendo usar o <a  href="https://code.visualstudio.com/download"  alt="VS Code">Visual Studio Code</a>.</p>
 
 <p>Para seguir os passos a seguir é necessário que você tenha instalado em sua máquina o <a  href="https://nodejs.org/en/"  alt="Link do Node.js">node.js</a>, <a  href="https://git-scm.com/downloads"  alt="Link do Git">git</a>,<a  href="https://code.visualstudio.com/download"  alt="Link do Visual Studio Code">Visual Studio Code </a> ou outro editor de preferência </p>
 
@@ -58,7 +58,7 @@ code .
 
 <p>Esse comando irá abrir o projeto dentro do VS code para começarmos a execução</p>
 
-Você verá diversas pastas como src que contém toda a lógica da aplicação. Dentro dela há diversos scripts que são as funções JS separadas. Foi utilizado módulos de import e export para a conexão entre esses arquivos por tanto se você quiser rodar essa aplicação no estado atual, não basta apenas abrir o index.html, você terá que rodar a aplicação com o Live Server, que é uma extensão do Visual Studio Code que nos permite rodar o código no browser através de um link privado de salvamento automático . </p>
+Você verá diversas pastas como src que contém toda a lógica da aplicação. Dentro dela há diversos scripts que são as funções JS separadas. Foi utilizado módulos de import e export para a conexão entre esses arquivos por tanto se você quiser rodar essa aplicação no estado atual, não basta apenas abrir o index.html, você terá que rodar a aplicação com o Live Server, que é uma extensão do Visual Studio Code que nos permite rodar o código no browser através de um link privado de salvamento automático. Agora, se você quiser rodar a versão desktop do Electron siga os passos abaixo</p>
 
 <h3>Instalando dependências</h3>
 
@@ -71,7 +71,7 @@ cd notifications_app_web
 <p>Depois use o comando:</p>
 
 ```bash
-npm install
+npm i
 ```
 
 <p>Feito isso, começará a instalar os pacotes necessários para rodar os arquivos na sua máquina. </p>

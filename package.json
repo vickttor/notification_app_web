@@ -1,0 +1,23 @@
+{
+  "name": "insta_post",
+  "version": "1.0.0",
+  "description": "Essa aplicação foi produzida com auxílio da PlayList Insta Post Reminder - Aplicativo de Notificação para Desktop do canal Mayk Brito. No vídeo é mostrado como produzir uma aplicação com JS Puro e renderizar em tempo real no Html.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSilva15/notification_app_web.git"
+  },
+  "keywords": [],
+  "author": "Victor Hugo da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorSilva15/notification_app_web/issues"
+  },
+  "homepage": "https://github.com/VictorSilva15/notification_app_web#readme",
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
