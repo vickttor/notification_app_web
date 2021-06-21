@@ -96,6 +96,8 @@ npm start
 
 <img src="./screenshots/app-running.png" alt="versão Desktop">
 
+<p>Se você quiser alterar o tempo que as notificações aparecem, entre em index.html e mude o valor que está sendo passado como parâmetro na função App.start(). O tempo passado ali são em segundos por tanto o valor 60 é igual a 1 minuto para o ciclo de notificação. Se nenhum valor for especificado, o ciclo de notificações padrão será de 1 hora.</p>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
