@@ -12,6 +12,8 @@ function createWindow() {
 
   win.loadFile("index.html");
 
+  win.on("blur", win.hide);
+
   return win;
 }
 module.exports = createWindow();
