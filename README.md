@@ -68,7 +68,7 @@ code .
 
 <p>Esse comando irá abrir o projeto dentro do VS code para começarmos a execução</p>
 
-Você verá diversas pastas como src que contém toda a lógica da aplicação. Dentro dela há diversos scripts que são as funções JS separadas. Foi utilizado módulos de import e export para a conexão entre esses arquivos por tanto se você quiser rodar essa aplicação no estado atual, não basta apenas abrir o index.html, você terá que rodar a aplicação com o Live Server, que é uma extensão do Visual Studio Code que nos permite rodar o código no browser através de um link privado de salvamento automático. Agora, se você quiser rodar a versão desktop do Electron siga os passos abaixo</p>
+Você verá diversas pastas como src que contém toda a lógica da aplicação. Dentro dela há diversos scripts que são as funções JS separadas. Foi utilizado módulos de import e export para a conexão entre esses arquivos por tanto se você quiser rodar essa aplicação no estado atual, não basta apenas abrir o index.html, você terá que rodar a aplicação com o Live Server, que é uma extensão do Visual Studio Code que nos permite rodar o código no browser através de um link privado de salvamento automático. Dentro da pasta Electron há os scripts que permitem a execução da versão desktop de nosso projeto. Agora, se você quiser rodar a versão desktop do Electron siga os passos abaixo</p>
 
 <h3>Instalando dependências</h3>
 
